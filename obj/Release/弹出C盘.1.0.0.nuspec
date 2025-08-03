@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>弹出C盘</id>
+    <version>1.0.0</version>
+    <authors>弹出C盘</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\NivSU\Desktop\弹出C盘\obj\Release\net8.0-windows\zh-Hans\弹出C盘.resources.dll" target="lib\net8.0-windows7.0\zh-Hans\弹出C盘.resources.dll" />
+    <file src="C:\Users\NivSU\Desktop\弹出C盘\bin\Release\net8.0-windows\弹出C盘.runtimeconfig.json" target="lib\net8.0-windows7.0\弹出C盘.runtimeconfig.json" />
+    <file src="C:\Users\NivSU\Desktop\弹出C盘\bin\Release\net8.0-windows\弹出C盘.dll" target="lib\net8.0-windows7.0\弹出C盘.dll" />
+  </files>
+</package>

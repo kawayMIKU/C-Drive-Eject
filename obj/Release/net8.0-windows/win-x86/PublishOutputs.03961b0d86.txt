@@ -1,0 +1,7 @@
+C:\Users\NivSU\Desktop\弹出C盘release\弹出C盘.pdb
+C:\Users\NivSU\Desktop\弹出C盘release\D3DCompiler_47_cor3.dll
+C:\Users\NivSU\Desktop\弹出C盘release\PenImc_cor3.dll
+C:\Users\NivSU\Desktop\弹出C盘release\PresentationNative_cor3.dll
+C:\Users\NivSU\Desktop\弹出C盘release\vcruntime140_cor3.dll
+C:\Users\NivSU\Desktop\弹出C盘release\wpfgfx_cor3.dll
+C:\Users\NivSU\Desktop\弹出C盘release\弹出C盘.exe

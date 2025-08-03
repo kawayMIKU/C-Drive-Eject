@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T3h0MhwCl+5lmljgXHUxNXqKzwbS7QhLiS4TGISbdy1Pf2vV20Otixhy/sQBRpYrQhbdmnYuySUnN8Bg78bRUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NivSU\\Desktop\\弹出C盘\\弹出C盘.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NivSU\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.3\\microsoft.net.illink.tasks.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
