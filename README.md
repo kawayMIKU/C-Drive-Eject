@@ -4,3 +4,4 @@
 一般情况下重启电脑可以修复
 仅作Windows环境测试学习使用，请勿滥用，一切损失执行负责
 运行程序前、点击弹出按钮前请确认不会损伤电脑
+<img width="532" height="491" alt="屏幕截图 2025-08-03 203322" src="https://github.com/user-attachments/assets/7c567623-090a-45cc-adc6-8f324c2629b7" />
